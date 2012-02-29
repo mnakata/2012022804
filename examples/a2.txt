@@ -1,0 +1,6 @@
+Annotation ==> X
+Genome ==> BLAST
+Sensitivity ==> BLAST
+X ==> Apple
+ample ==> Apple
+annotation ==> BLAST
